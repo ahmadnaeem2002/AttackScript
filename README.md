@@ -9,7 +9,7 @@ chmod +x attack.sh
 chmod +x checker.sh
 chmod +x ping.sh
 chmod +x print1.sh
-./attack.sh
+./attack.sh <Class C subnet>
 ````
  
 
